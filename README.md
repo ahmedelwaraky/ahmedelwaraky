@@ -11,6 +11,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedelwaraky" alt="ahmedelwaraky" /></a> </p>
+
 - 👨🏿‍💻 I'm a Frontend Developer.
 - 👨🏼‍🎓 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💻 I have studied diploma in Front End at Route Center for 4 and a half months.
@@ -20,11 +22,13 @@
 
 
 ### Connect with Me :
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmedelwaraky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedelwaraky" height="30" width="40" /></a>
+<a href="https://twitter.com/ahmedelwaraky_"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="ahmedelwaraky_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahmedelwaraky_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedelwaraky_" height="30" width="40" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/ahmedelwaraky/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Elwaraky-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/ahmedelwaraky_" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Elwaraky-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.instagram.com/ahmedelwaraky_/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Elwaraky-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
+### 🛠 Languages and Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -35,12 +39,41 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-
+ 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedelwaraky&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=ahmedelwaraky&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=ahmedelwaraky&style=for-the-badge">
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelwaraky&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelwaraky"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedelwaraky&show_icons=true&locale=en" alt="ahmedelwaraky" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelwaraky&" alt="ahmedelwaraky" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
