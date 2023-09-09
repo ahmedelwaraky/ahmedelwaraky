@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedelwaraky" alt="ahmedelwaraky" /></a> </p>
 
-- 👨🏿‍💻 I'm a Frontend Developer.
+- 👨🏿‍💻 I'm a Full Stack Developer Using Mearn Technology.
 - 👨🏼‍🎓 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💻 I have studied diploma in Front End at Route Center for 4 and a half months.
 - 💬 Ask me about my experience with JavaScript and ReactJS, or anything related to web development.
