@@ -16,7 +16,8 @@
 - 👨🏿‍💻 I'm a Full Stack Developer Using Mearn Technology.
 - 👨🏼‍🎓 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💻 I have studied diploma in Front End at Route Center for 4 and a half months.
-- 💬 Ask me about my experience with JavaScript and ReactJS, or anything related to web development.
+- 💻 I have studied diploma in Full Stack Using MEARN at Information Technology Institute (ITI) for 4 months.
+- 💬 Ask me about my experience with JavaScript, ReactJS, Angular, MongoDB and NodeJs or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 🌍 Check out my portfolio at https://www.ahmedelwaraky.com/ to see some of the projects I've worked on.
 
