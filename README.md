@@ -25,7 +25,7 @@
 ### Connect with Me :
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmedelwaraky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedelwaraky" height="30" width="40" /></a>
-<a href="https://twitter.com/ahmedelwaraky_"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="ahmedelwaraky_" height="30" width="40" /></a>
+<a href="https://twitter.com/ahmedelwaraky_"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg](https://sdmntprwestus2.oaiusercontent.com/files/00000000-4168-61f8-864a-9a796c52464a/raw?se=2025-04-12T12%3A21%3A45Z&sp=r&sv=2024-08-04&sr=b&scid=d405ee5c-305a-5aaf-b770-ab97e27db385&skoid=b53ae837-f585-4db7-b46f-2d0322fce5a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-12T06%3A39%3A50Z&ske=2025-04-13T06%3A39%3A50Z&sks=b&skv=2024-08-04&sig=Ua7eD4zOHgsU9XYnRyZBgDyD9AakWOz9Yl0wlFX4B0A%3D" alt="ahmedelwaraky_" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ahmedelwaraky_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedelwaraky_" height="30" width="40" /></a>
 </p>
 
